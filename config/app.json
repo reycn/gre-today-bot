@@ -1,0 +1,13 @@
+{
+    "name": "gre",
+    "cwd": "/root/gre/",
+    "script": "main.py",
+    "interpreter": "python3",
+    "instances": 1,
+    "autorestart": true,
+    "watch": false,
+    "max_memory_restart": "256M",
+    "pid": "fanyi_bot.pid",
+    "out_file": "logs/app-out.log",
+    "error_file": "logs/app-err.log"
+}
