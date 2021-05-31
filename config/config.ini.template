@@ -1,0 +1,13 @@
+[bot]
+token=2341234123:as8df8sadf7as9df9asdf899asd8f9awdf9
+admin=123421344
+
+
+; [group]
+; enabled=['-11111111111111111']
+
+; [lang]
+; destination=zh-CN
+
+; [sentry]
+; sdk=https://ssssssssssssssssssss12323@23232323.ingest.sentry.io/12341234
