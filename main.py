@@ -7,12 +7,6 @@ import logging
 from sys import path as syspath
 import json
 from time import sleep
-# from aiogram.types import InlineQuery, \
-#     InputTextMessageContent, InlineQueryResultArticle
-# from aiogram.types import InlineKeyboardButton
-# from aiogram.types import InlineKeyboardMarkup
-# from api import fetch_commands
-# from aiogram import types
 
 # Initializing
 try:
