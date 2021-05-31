@@ -2,6 +2,8 @@ config/config.ini
 config/groups.json
 dict/gre8000.txt
 logs
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
